@@ -6,8 +6,8 @@ sites:
   - name: Dealsafe
     url: https://dealsafe.in
 
-assignees: # Users to assign downtime issues (optional)
-  - Dealsafee
+# assignees: # Users to assign downtime issues (optional)
+#   - Dealsafee
   
 status-website: # Status website (optional)
   baseUrl: /ds-uptime
