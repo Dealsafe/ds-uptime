@@ -1,10 +1,10 @@
 [
   {
     "name": "Dealsafe",
-    "url": "https://www.dealsafe.in/",
-    "icon": "https://favicons.githubusercontent.com/www.dealsafe.in",
+    "url": "https://dealsafe.in/",
+    "icon": "https://favicons.githubusercontent.com/dealsafe.in",
     "slug": "dealsafe",
-    "status": "up",
+    "status": "down",
     "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1349,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2021-12-24": 0,
       "2021-11-11": 893,
       "2021-11-10": 682
     }
