@@ -4,7 +4,7 @@ repo: ds-uptime # The name of this repository
 
 sites:
   - name: Dealsafe
-    url: https://dealsafe.in/
+    url: https://www.dealsafe.in/
 
 # assignees: # Users to assign downtime issues (optional)
 #   - Dealsafee
