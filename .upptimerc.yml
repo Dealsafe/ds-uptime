@@ -1,5 +1,5 @@
 # Change these first
-owner: Dealsafee # Your GitHub organization or username, where this repository lives
+owner: Dealsafe # Your GitHub organization or username, where this repository lives
 repo: ds-uptime # The name of this repository
 
 sites:
@@ -7,7 +7,7 @@ sites:
     url: https://www.dealsafe.in/
 
 # assignees: # Users to assign downtime issues (optional)
-#   - Dealsafee
+#   - Dealsafe
   
 status-website: # Status website (optional)
   baseUrl: /ds-uptime
