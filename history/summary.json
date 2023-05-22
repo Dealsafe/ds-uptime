@@ -4,18 +4,19 @@
     "url": "https://www.dealsafe.in/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dealsafe.in.ico",
     "slug": "dealsafe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1362,
+    "time": 1364,
     "timeDay": 1080,
     "timeWeek": 1653,
     "timeMonth": 2622,
     "timeYear": 1546,
     "dailyMinutesDown": {
+      "2023-05-22": 0,
       "2022-11-21": 34,
       "2022-06-06": 21
     }
