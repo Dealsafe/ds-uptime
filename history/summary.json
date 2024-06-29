@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dealsafe.in.ico",
     "slug": "dealsafe",
     "status": "up",
-    "uptime": "86.82%",
+    "uptime": "86.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.53%",
-    "time": 965,
-    "timeDay": 93,
-    "timeWeek": 130,
-    "timeMonth": 209,
-    "timeYear": 592,
+    "uptimeYear": "75.81%",
+    "time": 963,
+    "timeDay": 83,
+    "timeWeek": 111,
+    "timeMonth": 207,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2024-05-15": 23,
       "2024-05-07": 16,
@@ -125,8 +125,7 @@
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   }
 ]
