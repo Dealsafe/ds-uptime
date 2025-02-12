@@ -4,14 +4,14 @@
     "url": "https://www.dealsafe.in/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dealsafe.in.ico",
     "slug": "dealsafe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.39%",
+    "uptimeDay": "93.70%",
     "uptimeWeek": "97.04%",
     "uptimeMonth": "96.51%",
-    "uptimeYear": "99.51%",
-    "time": 612,
-    "timeDay": 966,
+    "uptimeYear": "99.52%",
+    "time": 609,
+    "timeDay": 1068,
     "timeWeek": 437,
     "timeMonth": 573,
     "timeYear": 655,
@@ -59,7 +59,7 @@
       "2024-12-28": 32,
       "2024-12-27": 129,
       "2024-12-26": 42,
-      "2024-12-25": 73
+      "2024-12-25": 51
     }
   }
 ]
