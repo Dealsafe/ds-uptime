@@ -6,17 +6,17 @@
     "slug": "dealsafe",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "99.45%",
     "time": 523,
-    "timeDay": 136,
+    "timeDay": 130,
     "timeWeek": 237,
-    "timeMonth": 201,
-    "timeYear": 530,
+    "timeMonth": 200,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-04-28": 98,
+      "2025-04-28": 85,
       "2025-04-27": 100,
       "2025-04-26": 43,
       "2025-04-25": 25,
@@ -70,7 +70,7 @@
       "2025-03-02": 44,
       "2025-03-01": 54,
       "2025-02-28": 16,
-      "2025-02-26": 19
+      "2025-02-26": 51
     }
   }
 ]
