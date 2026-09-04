@@ -6,12 +6,12 @@
     "slug": "dealsafe",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "93.64%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "93.62%",
     "time": 239,
-    "timeDay": 155,
+    "timeDay": 0,
     "timeWeek": 253,
     "timeMonth": 464,
     "timeYear": 227,
@@ -76,7 +76,7 @@
       "2026-05-20": 247,
       "2026-08-08": 41,
       "2026-08-23": 20,
-      "2026-09-04": 0
+      "2026-09-04": 125
     }
   }
 ]
